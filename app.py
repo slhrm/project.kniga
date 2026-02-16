@@ -23,3 +23,4 @@ if st.button("Check Book"):
 
 new_book = st.text_input("Add book")
 if st.button1("Add a book"):
+  st.write(new_book)
